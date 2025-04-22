@@ -6,8 +6,7 @@ A simple and responsive clone of the Spotify landing page built using **HTML** a
 
 ## 📸 Preview
 
-![Spotify Clone Screenshot](screenshot.png) <!-- You can add your own screenshot and rename it -->
-
+![Spotify Clone Screenshot](screenshot.png)
 ---
 
 ## 🚀 Features
